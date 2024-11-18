@@ -38,4 +38,5 @@ const onClickVibration = () => {
   <button type="button" class="c-link c-link--red c-link--center" @click="onClickVibration">
     バイブレーション検討ボタン
   </button>
+  <p>test</p>
 </template>
